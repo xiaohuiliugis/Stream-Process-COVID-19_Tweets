@@ -1,0 +1,14 @@
+# 2020-04-07
+# keywords used to stream tweets, used different version is because of the changing trending keywords and hashtags
+
+
+covid_19_keywords = "'test positive' OR 'covid' OR 'covid19' OR 'covid-19'OR 'covid_19' OR 'corona' OR 'coronavirus' OR 'confirmed cases' OR 'TrumpMeltdown' OR 'Fauci' OR 'quarantine' OR 'FLATTEN THE CURVE' OR 'PanicBuying' OR '2019-nCov' OR 'Outbreak' OR 'Virus' OR 'Pandemic' OR 'Infection' OR 'NIAID' OR 'Biogen' OR 'CDC' OR 'WHO' OR 'Chinese American'OR 'Asian American'OR 'shutdown'OR 'layoffs' OR #lifeafterlockup OR #ThankYouPresidentTrump OR #CoronaCrisis OR #CALockdown OR #QuarantineLife OR #SOCIALDISTANCING OR #FLATTENTHECURVE OR #CHINESEVIRUS OR #Covid19 OR #Coronavirus OR #2019Ncov OR #Sarscov2 OR #Wuhan OR #Covid-19 OR #Covid2019 OR #Covid_19 OR #COVIDIOT "
+
+
+['test positive' , 'covid' , 'covid19' , 'cronavirus' , 'confirmed cases' , 'TrumpMeltdown' , 'Fauci' , 'quarantine' , 'FLATTEN THE CURVE' , 'PanicBuying' , '2019-nCov' , 'Outbreak' , 'Virus' , 'Pandemic' , 'Infection' , 'NIAID' , 'Biogen' , 'CDC' , 'WHO' , 'Chinese American', 'Asian American', 'shutdown','covid','lockdown','Hispanic','blacks','n95','minority', 'layoffs','#lifeafterlockup','#ThankYouPresidentTrump','#CoronaCrisis','#CALockdown','#Quarantine','#SOCIALDISTANCING','#FLATTENTHECURVE','#CHINESEVIRUS','#Covid19','#Coronavirus','#2019Ncov','#Sarscov2','#Wuhan','#Covid-19','#Covid2019','#Covid_19','#COVIDIOT']
+
+#shortened version
+['test positive' , 'covid' , 'cronavirus' , 'confirmed cases' , 'TrumpMeltdown' , 'Fauci' , 'quarantine' , 'FLATTEN THE CURVE' , 'PanicBuying' , '2019-nCov' , 'Outbreak' , 'Pandemic' , 'Infection' , 'NIH' , 'Biogen' , 'CDC' , 'WHO' , 'Asian', 'shutdown','lockdown','Hispanic','blacks','n95','minority', 'layoffs','#CoronaCrisis','#CALockdown','#Quarantine','#SOCIALDISTANCING','#FLATTENTHECURVE','#CHINESEVIRUS','#Covid19','#Coronavirus','#2019Ncov','#Sarscov2','#Wuhan','#COVIDIOT']
+
+['test positive' , 'covid' , 'covid19' , 'covid-19', 'covid_19' , 'crona' , 'cronavirus' , 'confirmed cases' , 'TrumpMeltdown' , 'Fauci' , 'quarantine' , 'FLATTEN THE CURVE' , 'PanicBuying' , '2019-nCov' , 'Outbreak' , 'Virus' , 'Pandemic' , 'Infection' , 'NIAID' , 'Biogen' , 'CDC' , 'WHO' , 'Chinese American', 'Asian American', 'shutdown','covid','lockdown', 'layoffs',#lifeafterlockup','#ThankYouPresidentTrump','#CoronaCrisis','#CALockdown','#QuarantineLife','#SOCIALDISTANCING','#FLATTENTHECURVE','#CHINESEVIRUS','#Covid19','#Coronavirus','#2019Ncov','#Sarscov2','#Wuhan','#Covid-19','#Covid2019','#Covid_19','#COVIDIOT'] 
+
