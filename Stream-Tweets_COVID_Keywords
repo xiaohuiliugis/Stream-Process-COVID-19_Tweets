@@ -12,3 +12,6 @@ covid_19_keywords = "'test positive' OR 'covid' OR 'covid19' OR 'covid-19'OR 'co
 
 ['test positive' , 'covid' , 'covid19' , 'covid-19', 'covid_19' , 'crona' , 'cronavirus' , 'confirmed cases' , 'TrumpMeltdown' , 'Fauci' , 'quarantine' , 'FLATTEN THE CURVE' , 'PanicBuying' , '2019-nCov' , 'Outbreak' , 'Virus' , 'Pandemic' , 'Infection' , 'NIAID' , 'Biogen' , 'CDC' , 'WHO' , 'Chinese American', 'Asian American', 'shutdown','covid','lockdown', 'layoffs',#lifeafterlockup','#ThankYouPresidentTrump','#CoronaCrisis','#CALockdown','#QuarantineLife','#SOCIALDISTANCING','#FLATTENTHECURVE','#CHINESEVIRUS','#Covid19','#Coronavirus','#2019Ncov','#Sarscov2','#Wuhan','#Covid-19','#Covid2019','#Covid_19','#COVIDIOT'] 
 
+#shortedn version 04/09/2020
+['test positive', 'covid','cronavirus' ,'confirmed cases', 'Fauci' , 'Virus' , 'Pandemic' ,  'shutdown','lockdown', 'layoffs','#CoronaCrisis','#SOCIALDISTANCING','#CHINESEVIRUS','#Covid19','#Coronavirus','#2019Ncov','#Sarscov2','#Covid-19','#Stimulus']
+
